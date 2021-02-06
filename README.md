@@ -1,6 +1,6 @@
 # 900months
 
-Life is only 900 months.
+Life has only 900 months.
 
 ## Use
 
